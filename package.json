@@ -1,6 +1,6 @@
 {
   "name": "dsh-prompt-optimizer",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "DeepSeek Harness 提示词智能优化与思考强度动态自适应插件",
   "license": "MIT",
   "type": "module",
